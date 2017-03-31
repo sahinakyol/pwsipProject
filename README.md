@@ -36,8 +36,11 @@ Now, the array is already sorted, but the algorithm does not know if it is compl
 Third Pass
 
 ( **1** **2** 4 5 8 ) → ( **1** **2** 4 5 8 )
+
 ( 1 **2** **4** 5 8 ) → ( 1 **2** **4** 5 8 )
+
 ( 1 2 **4** **5** 8 ) → ( 1 2 **4** **5** 8 )
+
 ( 1 2 4 **5** **8** ) → ( 1 2 4 **5** **8** )
 
 
