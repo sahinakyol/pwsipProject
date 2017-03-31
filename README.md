@@ -1,8 +1,11 @@
 **PWSIP Advanced Software Engineering Lesson**
 
-I used two type algorithm Bubble Sort and Insertion Sort,
+I used two type algorithm Bubble Sort and Insertion Sort.
+
 Requirements of the project are ;
+
 30 names must pulling from any text file,
+
 They are must sorting by Ascending and Descending.
 
 **Bubble Sorting**
